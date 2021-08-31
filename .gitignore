@@ -1,0 +1,10 @@
+*.cfg
+*.swp
+*.dot
+*.pdf
+*.png
+*.pyc
+!*.py
+!*.pyx
+!*/*.py
+!*/*.pyx

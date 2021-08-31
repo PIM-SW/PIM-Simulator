@@ -1,0 +1,48 @@
+
+====CPI STACK====
+total cyc: 10718
+Copy : 2284 / 8818
+Load : 1537 / 8818
+Store : 322 / 8818
+Send : 603 / 8818
+Receive : 603 / 8818
+MVM : 322 / 8818
+ALU : 1288 / 8818
+ALUI : 0 / 8818
+Set : 1859 / 8818
+WriteInput : 0 / 8818
+ReadOutput : 0 / 8818
+
+====LINK====
+busiest link: -0.0001220703125KB
+
+====MAX MEMORY SIZE====
+tile id: 0			physical size: 0			virtual size: 0
+tile id: 1			physical size: 0			virtual size: 128
+tile id: 2			physical size: 896			virtual size: 2560
+tile id: 3			physical size: 896			virtual size: 2560
+tile id: 4			physical size: 1408			virtual size: 4096
+tile id: 5			physical size: 1920			virtual size: 3584
+tile id: 6			physical size: 1408			virtual size: 3584
+tile id: 7			physical size: 1408			virtual size: 3584
+tile id: 8			physical size: 1408			virtual size: 3584
+tile id: 9			physical size: 1408			virtual size: 3584
+tile id: 10			physical size: 1408			virtual size: 3584
+tile id: 11			physical size: 896			virtual size: 3584
+tile id: 12			physical size: 1280			virtual size: 5632
+tile id: 13			physical size: 2048			virtual size: 4736
+tile id: 14			physical size: 1152			virtual size: 4736
+tile id: 15			physical size: 2048			virtual size: 4736
+tile id: 16			physical size: 1408			virtual size: 4736
+tile id: 17			physical size: 2048			virtual size: 4736
+tile id: 18			physical size: 1280			virtual size: 4736
+tile id: 19			physical size: 2048			virtual size: 4736
+tile id: 20			physical size: 1408			virtual size: 4736
+tile id: 21			physical size: 2048			virtual size: 4736
+tile id: 22			physical size: 1152			virtual size: 4736
+tile id: 23			physical size: 2048			virtual size: 4736
+tile id: 24			physical size: 2176			virtual size: 6784
+tile id: 25			physical size: 1920			virtual size: 4736
+tile id: 26			physical size: 1664			virtual size: 4736
+tile id: 27			physical size: 1920			virtual size: 4736
+tile id: 28			physical size: 3328			virtual size: 5248
